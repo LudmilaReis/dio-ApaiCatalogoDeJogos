@@ -1,4 +1,4 @@
-https://github.com/LudmilaReis/dio-ApaiCatalogoDeJogos.git<h1 align="center">Api Catálogo de Jogos</h1>
+<h1 align="center">Api Catálogo de Jogos</h1>
 <p align="center">Criando um catálogo de jogos usando boas práticas de arquitetura com .NET</p>
 
 ### Pré-requisitos
